@@ -1,4 +1,4 @@
-![VBNET MEETS LUHN](https://github.com/rastreus/validatingCCNums/tree/master/images/vbnet-meets-luhn.png?raw=true)
+![VBNET MEETS LUHN](https://raw.githubusercontent.com/rastreus/validatingCCNums/master/images/vbnet-meets-luhn.png)
 
 ["IBM Program Information Department"](https://flic.kr/p/a9Rqt4)
 by Tony Webster, [(CC BY-NC 2.0)](https://creativecommons.org/licenses/by-nc/2.0/legalcode)
